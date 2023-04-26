@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @JadenTaylor7
-- Check out my latest project, pair programmed with Raul https://github.com/rperbichi/Startup
+- 👋 Hi, I’m Jaden Taylor
+- Check out a website I built with Raul Peribichi! [worldwideunified.org](https://worldwideunified.org/)
 - 👀 I’m interested in ...Web development, data analytics, or basically any programming-type job
 - 🌱 I’m currently improving in ...JavaScript and Python
-- Languages I'm familiar with: HTML, CSS, JavaScript, Python, C++, C#
-- Databases I'm familiar with: SQL, MongoDB
+- 📖Languages I'm familiar with: HTML, CSS, JavaScript, Python, C++, C#
+- 📊Databases I'm familiar with: SQL, MongoDB
 - 📫 How to reach me ... jtjadent@gmail.com, 385-287-5381
 - For C++, ask me about my private repositories
 
