@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jaden Taylor
 - Check out a website I built with Raul Peribichi! [worldwideunified.org](https://worldwideunified.org/)
-- 👀 I’m interested in ...Web development, data analytics, or basically any programming-type job
+- 👀 I’m interested in ...Any programming job
 - 🌱 I’m currently improving in ...JavaScript and Python
 - 📖Languages I'm familiar with: HTML, CSS, JavaScript, Python, C++, C#
 - 📊Databases I'm familiar with: SQL, MongoDB
