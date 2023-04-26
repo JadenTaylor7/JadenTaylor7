@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jaden Taylor
-- Check out a website I built with Raul Peribichi! [worldwideunified.org](https://worldwideunified.org/)
+- Check out a website I built from scratch with Raul Peribichi! [worldwideunified.org](https://worldwideunified.org/)
 - 👀 I’m interested in ...Any programming job
 - 🌱 I’m currently improving in ...JavaScript and Python
 - 📖Languages I'm familiar with: HTML, CSS, JavaScript, Python, C++, C#
