@@ -1,4 +1,4 @@
-                                              ## 👋 Hi, I’m Jaden Taylor
+- 👋 Hi, I’m Jaden Taylor
 - Check out a website I built from scratch with Raul Peribichi! [worldwideunified.org](https://worldwideunified.org/)
 - 👀 I’m interested in ...Programming jobs
 - 🌱 I’m currently improving in ...JavaScript and Python
