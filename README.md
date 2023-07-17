@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jaden Taylor
 - Check out a website I built from scratch with Raul Peribichi! [worldwideunified.org](https://worldwideunified.org/)
 - 👀 I’m interested in ...Programming jobs
-- 🌱 I’m currently improving in ...JavaScript and Python
+- 🌱 I’m currently improving in ...Python
 - 📖Languages I'm familiar with: HTML, CSS, JavaScript, Python, C++, C#
 - 📊Databases I'm familiar with: SQL, MongoDB
 - 📫 How to reach me ... jtjadent@gmail.com, 385-287-5381
